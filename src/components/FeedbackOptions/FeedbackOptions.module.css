@@ -1,0 +1,11 @@
+.feedback {
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+
+.item {
+    padding: 5px;
+    cursor: pointer;
+}
+
